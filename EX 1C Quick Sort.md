@@ -31,11 +31,10 @@ To write a python program to implement quick sort using tha last element as pivo
 11.Print each element of the now sorted array.
 
 ## Program:
-Developed by: SWETHA N
-
-Register Number: 212222110050
-
 ```
+# Developed by: Vijis Durai R
+# Register Number: 212222220057
+
 def partition(arr, low, high):
     i = (low-1)
     pivot = arr[high]
