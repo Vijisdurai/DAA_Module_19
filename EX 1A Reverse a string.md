@@ -13,11 +13,8 @@ ii) Otherwise, return s[-1] + reverse(s[:-1]).
 5. Print the reversed string.
 ## Program:
 ```
-/*
-Program to implement Reverse a String
-Developed by: Yuva Krishna K
-Register Number: 212222110056
-*/
+# Developed by: Vijis Durai R
+# Register Number: 212222220057
 
 def reverse(s):
     if len(s)==1:
